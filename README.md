@@ -21,7 +21,7 @@
 
 Python 3.7 и выше
 
-Библиотеки: pandas, numpy, scikit-learn
+Библиотеки: pandas, numpy, scikit-learn, seborn, shap, XGBoost, LightGBM
 
 ## Установка и запуск проекта
 
